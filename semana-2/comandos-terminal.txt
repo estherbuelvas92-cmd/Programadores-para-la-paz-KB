@@ -1,0 +1,8 @@
+Mkdir 
+cd
+touch
+ls
+nano
+git add .
+git commit -m "Actividad semana 2"
+git push
