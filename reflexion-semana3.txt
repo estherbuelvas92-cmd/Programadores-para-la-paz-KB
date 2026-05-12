@@ -1,4 +1,0 @@
-Reflexion:
-
-Es importante  mantener un registro de cambios en los proyectos de software, usando git es muy importante porque
-Así podemos llevar un postre a detalle de cada cambio, así podemos más fácilmente resolver problemas. Además podemos revertir algo sino ha salido bien y así aseguramos un bueno proyecto
