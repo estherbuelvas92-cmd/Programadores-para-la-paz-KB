@@ -1,0 +1,10 @@
+Reflexion
+
+Es importante que los proyectos de software mantengan un registro de cambios porque así podemos llevar control claro de lo que hemos modificado.
+Por ejemplo, en Git podemos organizar mejor nuestros trabajos y evitar errores.
+Si cometemos un error podemos regresar al proyecto anterior sin perder el trabajo.
+También nos ayuda a saber qué cambios se han hecho en el proyecto.
+Esto facilita la corrección de errores de forma más rápida y segura.
+Además, permite trabajar en equipo sin afectar el trabajo de los demás.
+Cada persona puede hacer cambios sin dañar el proyecto principal.
+Por eso es muy importante usar Git en el desarrollo de software.
