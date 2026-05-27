@@ -1,0 +1,8 @@
+Pienso que es importante que las comunidades creen sus propias herramientas
+tecnológicas porque así no tienen que depender siempre de otras empresas
+o personas. Con tecnologías como Node.js se pueden crear aplicaciones y
+páginas web de manera más sencilla y rápida. Además, al ser una tecnología
+abierta, cualquier persona puede aprender, practicar y mejorar sus proyectos.
+También ayuda a que las comunidades tengan más oportunidades y puedan crear
+soluciones para sus propias necesidades. Esto fomenta el aprendizaje, el
+trabajo en equipo y el crecimiento tecnológico de las personas.
