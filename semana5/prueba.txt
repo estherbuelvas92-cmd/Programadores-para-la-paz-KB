@@ -1,0 +1,8 @@
+http://localhost:3000
+Se activa el servidor
+
+http://localhost:3000/saludo
+Se crea un mensaje para la comunidad
+
+http://localhost:3000/mensaje/juan
+Se crea un mensaje dirigido a una persona, Juan

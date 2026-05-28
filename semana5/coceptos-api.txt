@@ -1,0 +1,2 @@
+Está ruta sirve para recibir información que una persona manda desde una aplicación o formulario, lo que esta hace es tomar el mensaje enviado por el usuario y responder diciendo que el reporte fue recibido exitosamente.
+En una aplicación comunitaria nos puede servir para que las personas hagan reportes, aviso o alertas importantes, cómo problemas en el barrio o situaciones que necesiten atención y también ayuda que la comunicación entre la app y las personas sea más organizada
