@@ -1,3 +1,0 @@
-{ "tipo": "Iluminación pública", "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días." }
-Respuesta del servidor:
-{ "mensaje": "Incidencia registrada", "tipo": "Iluminación pública", "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días." }
