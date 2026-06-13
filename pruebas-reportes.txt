@@ -1,0 +1,1 @@
+Cuando ejecuté la ruta GET /reportes, pude ver los reportes que había registrado anteriormente. La información apareció en formato JSON y mostraba el número de identificación, el tipo de reporte y la descripción. De esta manera pude comprobar que los datos enviados se guardaron correctamente y se pueden consultar después.

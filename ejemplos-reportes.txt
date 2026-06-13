@@ -1,0 +1,19 @@
+Primer reporte registrado:
+{
+"mensaje": "Reporte registrado",
+"reporte": {
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+}
+
+Segundo reporte registrado:
+{
+"mensaje": "Reporte registrado",
+"reporte": {
+"id": 2,
+"tipo": "Ambiente",
+"descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+}

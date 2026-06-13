@@ -1,0 +1,1 @@
+Cuando consulté los reportes, el sistema me mostró los datos que había registrado anteriormente. Pude ver el tipo de reporte, la descripción y un número de identificación para cada uno. También observé que cuando agregué un nuevo reporte, este apareció en la lista al volver a realizar la consulta. Esto permite llevar un registro organizado de los reportes realizados.
