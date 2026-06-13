@@ -1,0 +1,13 @@
+Exolicacion
+
+Repositorio
+Lugar en el que guardamos proyectos de programación, allí podemos ver los archivos y también el historial de cambios que hayamos hecho 
+
+
+Commit
+Un commit es cuando guardamos cambios que hicimos en el proyecto
+
+push
+Es cuando enviamos cambios que tenemos en la computadora a gitup, así guardamos el proyecto en también en el internet y no solo en el computador 
+
+
