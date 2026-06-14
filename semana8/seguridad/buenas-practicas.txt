@@ -1,0 +1,4 @@
+
+1. Utilizar contraseñas seguras y difíciles de adivinar.
+2. No compartir usuarios ni contraseñas con otras personas.
+3. Mantener el sistema y las aplicaciones actualizadas.

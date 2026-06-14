@@ -1,0 +1,5 @@
+El comando uname -a me mostró información sobre el sistema que estoy usando, como la versión de Android y algunos datos técnicos del dispositivo.
+
+El comando whoami me mostró el usuario con el que estoy trabajando en el sistema.
+
+Conocer esta información es útil cuando se administra un servidor porque ayuda a saber qué sistema se está utilizando, revisar si todo está funcionando bien y resolver problemas más fácilmente.

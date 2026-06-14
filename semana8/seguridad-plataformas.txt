@@ -1,0 +1,5 @@
+1. No compartir la información personal de los usuarios sin su permiso.
+2. Utilizar contraseñas seguras para proteger las cuentas.
+3. Mantener la plataforma actualizada para evitar problemas de seguridad.
+4. Controlar quién puede acceder a la información importante.
+5. Llevar un registro de los accesos y actividades para detectar posibles inconvenientes.
