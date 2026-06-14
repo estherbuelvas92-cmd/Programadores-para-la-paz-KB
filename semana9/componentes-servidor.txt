@@ -1,0 +1,19 @@
+Sistema operativo:
+Es el que hace que el computador o servidor funcione. 
+Maneja todo lo básico como programas, memoria y archivos.
+
+Node.js:
+Es una herramienta que permite usar JavaScript para crear servidores. 
+Ayuda a que el código funcione fuera del navegador.
+
+Aplicación server.js:
+Es el archivo donde se crea el servidor y sus funciones. 
+Aquí se decide qué responde el sistema cuando alguien entra.
+
+Puerto:
+Es el lugar por donde el servidor recibe las solicitudes. 
+Es como una puerta de entrada, por ejemplo el 3000.
+
+Logs:
+Son los mensajes o registros de lo que pasa en el servidor. 
+Sirven para ver si todo está funcionando o si hay errores.

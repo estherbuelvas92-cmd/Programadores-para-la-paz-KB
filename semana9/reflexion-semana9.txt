@@ -1,0 +1,8 @@
+Es importante que las plataformas de las comunidades funcionen bien porque muchas personas dependen de ellas todos los días. 
+Si el servidor falla o no es estable, la información puede dejar de cargarse o la página puede dejar de funcionar. 
+Esto afecta la comunicación entre las personas y el acceso a los servicios. 
+También es clave que sean seguras para proteger los datos de los usuarios. 
+Un sistema estable da confianza a la gente que lo usa. 
+Además evita errores y pérdida de información importante. 
+Cuando todo funciona bien, la experiencia es más fácil y rápida. 
+Por eso es necesario que los servidores se mantengan activos y bien cuidados.
