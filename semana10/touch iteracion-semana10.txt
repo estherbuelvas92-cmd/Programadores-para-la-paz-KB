@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero? 
+Como ciudadana quiero reportar un incidente para dejar evidencia del caso y facilitar su seguimiento
+Como líder comunitario quiero recibir notificaciones de nuevos reportes para organizar la atención de los casos  
+¿Por qué son las más importantes? Son las más importantes porque primero necesitamos registrar los problemas de la comunidad para así tener evidencia e información necesaria de cada caso, así después recibir notificaciones para que los responsables puedan conocer los reportes, actuar y buscar soluciones
+¿Qué significa para ti que una tarea esté “terminada”? 
+Funciona 
+
+Se comprobó que está bien 
+
+Está guardada en el repositorio  

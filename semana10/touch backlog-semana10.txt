@@ -1,0 +1,5 @@
+Como ciudadana quiero reportar un incidente para dejar evidencia del caso 
+Como líder comunitario quiero recibir notificaciones de nuevos reportes para organizar la atención de los casos
+Como equipo de trabajo quiero consultar los reportes registrados para hacer seguimiento a las soluciones
+Como ciudadano quiero conocer el estado de mi reporte para saber si fue atendido
+Como administrador quiero generar un resumen de los reportes para analizar las necesidades de la comunidad
