@@ -1,0 +1,15 @@
+
+Formulario para crear una causa:
+Una sección en la parte superior donde el usuario puede rellenar un formulario con el título de la causa, una descripción detallada y la fecha de inicio. Incluye un botón que dice "Publicar Causa".
+
+Vista de causas disponibles:
+Una lista que muestra todas las causas comunitarias creadas por los usuarios, permitiendo que cualquiera pueda leer de qué tratan.
+
+ Botón para apoyar una causa:
+ habrá un botón visible que dice "Apoyar esta causa". Al hacer clic, el usuario suma su voto de forma anónima.
+
+ Contador de apoyos:
+Al lado del botón de cada causa, se muestra un número que indica la cantidad total de apoyos recibidos 
+
+Seguridad y Privacidad:
+La interfaz es clara y sencilla. Está diseñada para proteger la privacidad, por lo que nunca mostrará nombres completos, correos electrónicos, contraseñas ni información personal de los usuarios que crean o apoyan las causas

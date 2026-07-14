@@ -1,0 +1,10 @@
+Creo que una plataforma tecnológica que promueve la participación ciudadana debe tener base de datos porque así se puede guardar de forma organizada la información de los usuarios,
+También pienso que la autenticación de usuarios es muy importante porque permite que cada persona ingrese con su cuenta y acceda solo a lo que le corresponde.
+Esto me parece muy importante   ya que así no cualquier persona puede entrar a información privada o modificar datos sin permiso.
+Además, la protección de la información es primordial porque en una plataforma comunitaria se manejan datos sensibles y se trabaja con la confianza de las personas.
+Si no hay seguridad, muchas personas podrían sentirse inseguras al participar o compartir información.
+Para mí, esto es importante así la plataforma será más seria, confiable y útil para la comunidad.
+Aprendí que la tecnología no solo sirve para crear ideas, sino también para cuidar a las personas que usan la aplicación.
+Por eso creo que una buena plataforma debe combinar funcionalidad con seguridad desde el comienzo.
+
+
