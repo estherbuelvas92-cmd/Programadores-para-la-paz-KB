@@ -1,0 +1,9 @@
+Creación de la causa: Un ciudadano ingresa a la plataforma, redacta su iniciativa ciudadana y la publica
+
+Registro en base de datos: El sistema procesa la solicitud inmediatamente y la causa queda registrada de forma segura en la base de datos, haciéndola visible para el resto de la comunidad.
+
+ Apoyo: Otros ciudadanos acceden al sistema, leen las diferentes causas activas y apoyan las peticiones con las que están de acuerdo.
+
+Conteo automatizado: La plataforma está pendiente a la participación y lleva un conteo en tiempo real de cuantas personas están apoyando la causa o están de acuerdo
+
+Se genera el documento final: Una vez que la petición alcanza los apoyos necesarios, el sistema recopila la información y genera automáticamente un documento PDF formal que incluye el texto de la petición y el apoyo del ciudadano.

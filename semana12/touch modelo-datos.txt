@@ -1,0 +1,15 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+Explicación: La entidad Causa sirve para almacenar y registrar la información principal de la iniciativa o petición ciudadana. Funciona como el registro central donde se guarda el identificador único, el nombre del proyecto, los detalles completos de la solicitud y la fecha en que se publicó.
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+
+Explicación: La entidad Apoyo sirve para registrar de manera individual cada firma o respaldo que los ciudadanos le otorgan a una iniciativa

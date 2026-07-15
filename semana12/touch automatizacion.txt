@@ -1,0 +1,6 @@
+Evento:
+Meta de apoyos alcanzada.
+Mensaje:
+causa ha cumplido su meta de apoyos
+Información que no debe enviarse:
+Cédulas, teléfonos, direcciones, correos o datos personales 
